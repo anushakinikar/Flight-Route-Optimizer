@@ -11,6 +11,7 @@ Dijkstra's Algorithm: The project employs Dijkstra's algorithm for finding the s
 Data Structures: Utilizes graph nodes for representing airports, hash tables for efficient retrieval of passenger data, linked lists for storing passenger information, stack for flight history of a passenger.
 
 Technologies Used
+
 Programming Language: Implemented in Java.
 Data Structures: Graphs, hash tables, linked lists, stacks.
 Algorithm: Dijkstra's algorithm for route optimization.
